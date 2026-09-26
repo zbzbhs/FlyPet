@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 产物（exe 走 GitHub Releases，不进仓库）
+build/
+build_r21/
+dist/
+dist_r21/
+
+# 运行时数据（每台机器自己生成）
+data/
+settings.json.bak
+_debug.log
+
+# 测试 / 探针的一次性输出（基线图在 _golden/，不受影响）
+_*.txt
+_*.png
+绘制基线_总览_*.png
+体检报告-第*.txt
+渲染验证_*.png
+设置面板_*.png

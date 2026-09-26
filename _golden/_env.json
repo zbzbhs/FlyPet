@@ -1,0 +1,8 @@
+{
+  "font_advance": 48,
+  "font_height": 16,
+  "pyside": "6.11.2",
+  "python": "3.13.14",
+  "qt": "6.11.2",
+  "qt_runtime": "6.11.2"
+}
